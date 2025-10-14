@@ -1,0 +1,496 @@
+Post #5
+📌 Title   : The price of gold reached $4,000 an ounce for the first time ever
+🔥 Score   : 1621
+🔗 URL     : https://reddit.com/r/stocks/comments/1o0fcvw/the_price_of_gold_reached_4000_an_ounce_for_the/
+🕓 Created : 2025-10-07 19:21:47
+📝 Content:
+    Gold prices hit $4,000 for the first time Tuesday as investors seek a safe haven
+     from geopolitical volatility, economic uncertainty and stubborn inflation.
+    There must be institutional buyers too?
+    https://www.cnbc.com/2025/10/07/gold-4000-record.html?__source=iosappshare%7Ccom
+    .apple.UIKit.activity.CopyToPasteboard
+----------------------------------------------------------------------------------------------------
+
+Post #8
+📌 Title   : Reminder - Tesla sales trending down, maybe unprofitable 3Q from no emissions credits, and taxi still has safety drivers - stock UP 30% Lol
+🔥 Score   : 395
+🔗 URL     : https://reddit.com/r/stocks/comments/1nvg1dy/reminder_tesla_sales_trending_down_maybe/
+🕓 Created : 2025-10-01 23:49:43
+📝 Content:
+    The absurdity of Tesla knows no bounds. 
+    * Publicly available China sales data- which is about 35% of Tesla's sales - is 
+    still down 9% year over year, and Europe sales are still falling. American sales
+     expect a bump due to loss of tax credits, but with Elon's alignment with Trump 
+    in the US generally hurting American sales, and significantly increased EV compe
+    tition in the US, that bump is likely to be marginable at best. Accordingly, Tes
+    la EV sales are still virtually guaranteed to be down year over year this quarte
+    r, stagnant at best. Remember, in 2020 Elon and Tesla bulls were projecting a ra
+    mp up to 20 million car sales per year (traditional EV sales, not robotaxi sales
+    ) by 2030. They've been stagnant - now decreasing - at under 2 million car sales
+     for over a year now. 
+    * Worse still, the revenue from automotive regulatory credits will drop to zero 
+    starting this quarter, as emissions penalties were eliminated under the Trump ad
+    ministration. Notably, those emissions credits have accounted for, on average, 5
+    0% of Tesla's net income over the past 5 quarters; and, 1Q2025 would have actual
+    ly had a negative net income of -$186 million without the $595 million in income
+     from selling automotive regulatory credits that quarter. 
+    * And, while robotaxi is interesting and technologically, looks like it's trendi
+    ng towards feasibly working, Tesla still has safety drivers in the markets its o
+    perating in -which is mainly Austin at the moment - despite Musk saying it would
+     reach half the U.S. population by the end of the year.  And, recent autonomous 
+    driving disclosures to the NHTSA indicate that in the most recent August month T
+    esla had 3 accidents for having less than 30 cars on the road, a ratio of 0.3/ca
+    r/month. Waymo, in contrast had 51 incident reports in August for its 1,500 cars
+     on the road across the country, a ratio 0.03/car/month and a factor of 10 less 
+    incidents per car per month than Tesla. And, while Musk has touted that Tesla is
+     the leader in robotaxi for something like 8 years now, not only has Waymo factu
+    ally rendered more autonomous rides with dramatically more mileage and, at this 
+    point, had demonstrated to be a working technology; but more and more competitor
+    s are popping up, such as Zoox in the U.S.; and pony.ai, BYD, and Baidu in Asia.
+     Which is to say, competition is coming, and some would say has already come and
+     surpassed Tesla, for the robotaxi space as well. 
+    * Additionally, if one takes a step back and compares the robotaxi market to the
+     current ride-share market - as that's likely what it will displace since most p
+    eople that own cars will presumably still want to have their own car - even assu
+    ming mature, robust market share and profit margins, the valuation is still prob
+    ably under $300 range. For example, by my back of the envelope math there were a
+    pproximately 100 billion ride share miles rendered worldwide in 2024. If you ass
+    ume Tesla had 50% of that market (which is generally an unheard of market share 
+    in a market with decent competitions - Apple, for example, has a 25% global mark
+    et share); and, assuming that, pursuant to Musk's own projections, the cyber cab
+     was able to get cost per mile down to $0.30/mile, and they charged a reasonable
+     $1/mile to riders, and that does not go lower with more competition; that would
+     give 100 billion miles \* 0.5 market share \* $0.70 profit per mile = $35 billi
+    on profit off of robotaxis per year. $35 billion/3.4 billion shares = $10.29 per
+     share and giving that a P/E of 30 gives you $308 target price. In other words, 
+    in a mature industry where Tesla robotaxi's had global reach and 50% market shar
+    e, and profit margins of 70% per mile, the high price is still only $300 a share
+    . 
+    **Tesla is up 30% this month to $450 a share as of today**, and likely trending 
+    towards a P/E of over 300 as it's EV sales profits are likely trending towards a
+     range of $1 to $2. **Gotta love the American stock market!**
+----------------------------------------------------------------------------------------------------
+
+Post #9
+📌 Title   : Labor Department won’t be releasing data, including Friday’s key jobs report, in case of a shutdown
+🔥 Score   : 1338
+🔗 URL     : https://reddit.com/r/stocks/comments/1ntm8my/labor_department_wont_be_releasing_data_including/
+🕓 Created : 2025-09-29 21:42:05
+📝 Content:
+    Source: https://www.cnbc.com/2025/09/29/bls-wont-be-releasing-data-including-fri
+    days-key-jobs-report-in-case-of-a-shutdown.html?__source=iosappshare%7Ccom.apple
+    .UIKit.activity.CopyToPasteboard
+    The Labor Department is preparing for what would amount to a news and data black
+    out should the U.S. government suspend operations.
+    In a contingency plan released Friday, the department said it was looking “to en
+    sure that DOL agencies can perform an orderly suspension of programs and operati
+    ons should a lapse occur, while continuing those limited activities authorized t
+    o continue during a lapse.”
+    While the department’s scope covers a multitude of areas, the impact on data rel
+    eases will be pressing for investors. The DOL, in conjunction with the Bureau of
+     Labor Statistics, has several key reports upcoming that will provide important 
+    clues about the direction of the economy and inform Federal Reserve policymakers
+     ahead of their next meeting in October.
+    “BLS will suspend all operations,” the 73-page plan stated. “Economic data that 
+    are scheduled to be released during the lapse will not be released
+----------------------------------------------------------------------------------------------------
+
+Post #11
+📌 Title   : Intel jumps 6.4% after reports it is seeking Apple investment to support comeback bid
+🔥 Score   : 708
+🔗 URL     : https://reddit.com/r/stocks/comments/1npsxd9/intel_jumps_64_after_reports_it_is_seeking_apple/
+🕓 Created : 2025-09-25 06:09:29
+📝 Content:
+    No paywall: [https://finance.yahoo.com/news/intel-seeking-investment-apple-part-
+    200651919.html](https://finance.yahoo.com/news/intel-seeking-investment-apple-pa
+    rt-200651919.html)
+    &gt;Intel Corp. has approached Apple Inc. about securing an investment in the ai
+    ling chipmaker, according to people familiar with the matter, part of efforts to
+     bolster a business that’s now partially owned by the US government.
+    &gt;Apple and Intel also have discussed how to work more closely together, said 
+    the people, who asked not to be identified because the deliberations are private
+    . The talks have been early-stage and may not lead to an agreement, the people s
+    aid.
+----------------------------------------------------------------------------------------------------
+
+Post #13
+📌 Title   : AAPL: Strong iPhone 17 demand
+🔥 Score   : 253
+🔗 URL     : https://reddit.com/r/stocks/comments/1nmambu/aapl_strong_iphone_17_demand/
+🕓 Created : 2025-09-21 03:20:10
+📝 Content:
+    **Apple has asked suppliers to boost production of iPhone 17 model, the Informat
+    ion reports** https://www.reuters.com/business/apple-has-asked-suppliers-boost-p
+    roduction-iphone-17-model-information-reports-2025-09-19/
+    "Apple this week asked Luxshare Precision, one of its two main iPhone assemblers
+     in China, alongside Foxconn, to boost daily output of the standard iPhone 17 by
+     about 40%"
+    **Apple’s iPhone 17 Sales Open to Strong Demand for Pro Models**
+    https://www.bloomberg.com/news/articles/2025-09-19/apple-s-iphone-17-air-go-on-s
+    ale-to-years-of-demand-for-new-look
+    "The new phones, which bring a fresh look in addition to battery life and camera
+     improvements, attracted long lines at Apple stores from Hong Kong to London to 
+    New York to Los Angeles."
+    **JD.com (JD) Shares Rise as iPhone 17 Breaks Sales Records**
+    https://www.gurufocus.com/news/3113835/jdcom-jd-shares-rise-as-iphone-17-breaks-
+    sales-records
+    "The boost in stock price comes as JD.com reported that the pre-sale of Apple's 
+    iPhone 17 series set a new sales record. Within the first minute of pre-sale, tr
+    ansactions surpassed the entire day's sales from the previous year. By 10 AM on 
+    September 19, trade-ins for the iPhone 17 quadrupled compared to the same period
+     last year."
+----------------------------------------------------------------------------------------------------
+
+Post #16
+📌 Title   : Alphabet becomes fourth company to reach $3 trillion market cap
+🔥 Score   : 1088
+🔗 URL     : https://reddit.com/r/stocks/comments/1nhmzq8/alphabet_becomes_fourth_company_to_reach_3/
+🕓 Created : 2025-09-15 19:43:32
+📝 Content:
+    Alphabet has joined the $3 trillion club.
+    Shares of the search giant jumped more than 4% on Monday, pushing the company in
+    to territory occupied only by Nvidia, Microsoft and Apple.
+    The stock got a big lift in early September from an antitrust ruling by a judge,
+     whose penalties came in lighter than shareholders feared. The U.S. Department o
+    f Justice wanted Google to be forced to divest its Chrome browser, and last year
+     a district court ruled that the company held an illegal monopoly in search and 
+    related advertising.
+    But Judge Amit Mehta decided against the most severe consequences proposed by th
+    e DOJ, which sent shares soaring to a record. After the big rally, President Don
+    ald Trump congratulated the company and called it “a very good day.”
+    Alphabet shares are now up more than 30% this year, compared to the 15% gain for
+     the Nasdaq.
+    The $3 trillion milestone comes roughly 20 years after Google’s IPO and a little
+     more than 10 years after of the creation of Alphabet as a holding company, with
+     Google its prime subsidiary. .
+    CEO Sundar Pichai was named CEO of Alphabet in 2019, replacing co-founder Larry 
+    Page. Pichai’s latest challenge has been the surge of new competition due to the
+     rise of artificial intelligence, which the company has had to manage through wh
+    ile also fending off an aggressive set of regulators in the U.S. and Europe.
+    The rise of Perplexity and OpenAI ended up helping Google land the recent favora
+    ble antitrust ruling. The company’s hopes of becoming a major AI player largely 
+    ride with Gemini, Google’s flagship suite of AI models.
+    Source: [https://www.cnbc.com/2025/09/15/alphabet-3-trillion-market-cap.html](ht
+    tps://www.cnbc.com/2025/09/15/alphabet-3-trillion-market-cap.html)
+----------------------------------------------------------------------------------------------------
+
+Post #22
+📌 Title   : Trump threatens trade probe after ‘discriminatory’ EU fines against Google, Apple.
+🔥 Score   : 360
+🔗 URL     : https://reddit.com/r/stocks/comments/1n9ej6b/trump_threatens_trade_probe_after_discriminatory/
+🕓 Created : 2025-09-06 00:56:23
+📝 Content:
+    President Donald Trump threatened to launch a trade investigation to “nullify” w
+    hat he said were discriminatory penalties levied by Europe against U.S. tech fir
+    ms such as Google.
+    President Donald Trump on Friday threatened to launch a trade investigation to “
+    nullify” what he said were discriminatory penalties levied by Europe against U.S
+    . tech firms such as Google.
+    “We cannot let this happen to brilliant and unprecedented American Ingenuity and
+    , if it does, I will be forced to start a Section 301 proceeding to nullify the 
+    unfair penalties being charged to these Taxpaying American Companies.
+----------------------------------------------------------------------------------------------------
+
+Post #27
+📌 Title   : Comcast Gets Serious About Subscriber Losses - A Long Fight Looms
+🔥 Score   : 217
+🔗 URL     : https://reddit.com/r/stocks/comments/1mtlpzw/comcast_gets_serious_about_subscriber_losses_a/
+🕓 Created : 2025-08-18 18:44:46
+📝 Content:
+    Comcast Corp. has a problem - the company is losing customers in its most signif
+    icant business, providing internet access to nearly 30 million American househol
+    ds.
+    The Philadelphia-based telecom and media conglomerate has reported record losses
+     of broadband subscribers for three straight quarters, more than half a million 
+    accounts in total, after pandemic-related federal subsidies for low-income custo
+    mers ended and telecom companies like T-Mobile US Inc. got much more aggressive 
+    offering consumers alternative options.
+    Comcast Chief Executive Officer Brian Roberts and his team have jumped into acti
+    on, bringing in new management at the broadband division, introducing new pricin
+    g plans and pushing harder into other products, such as wireless phone service, 
+    to complement their internet offerings and cable TV. Still, there’s no immediate
+     end in sight to the cancellations.
+    “We’re not offering predictions around when they’ll get back to positive adds,’’
+     Chief Financial Officer Jason Armstrong said in an interview. “But everything w
+    e’re doing now is designed to put us back on a much better trajectory.”
+    For years the company founded by Roberts’ father with the purchase of a single p
+    ay-TV franchise in Tupelo, Mississippi, was the king of cable. But as consumers 
+    have canceled those pricey TV packages in favor of streaming services like Netfl
+    ix Inc., Comcast’s video business has shriveled. At 11.8 million, the company’s 
+    cable-TV customers amount to fewer than half their peak in 2008. With that busin
+    ess shrinking, Comcast no longer has the easy sell of asking a cable customer to
+     sign up for internet access too.
+    “Pay TV cord-cutting was really the catalyst that started impacting broadband be
+    cause you’re no longer in a bundle,” said streaming media consultant Dan Rayburn
+    . “And the value was always in the bundle.”
+    Comcast got a boost during the pandemic, along with other providers, as consumer
+    s realized they couldn’t function without reliable home internet. Short-lived fe
+    deral subsidies for internet access also helped Comcast add broadband customers 
+    between 2020 and 2022. But the tide began to turn for the company in mid-2023.
+    T-Mobile, AT&amp;T Inc. and Verizon Communications Inc. have been tapping their 
+    wireless networks to deliver internet access at prices that attract budget-consc
+    ious consumers. The big three telecom carriers added over 900,000 so-called fixe
+    d-wireless accounts in the second quarter alone. Comcast and its peers have hist
+    orically provided Internet access through a mix of fiber and coaxial cable conne
+    ctions, but the three major telecom companies have also been investing in speedy
+     fiber-optic lines right to the home.
+    The pressure has forced Comcast management to respond on several fronts. The com
+    pany has been offering cheaper plans at slower speeds for low-income consumers. 
+    In April, Comcast introduced a new internet pricing program for all customers, i
+    ncluding a 5-year price guarantee. Plans start at $55 a month, including taxes a
+    nd equipment fees. The new pitch is a departure from the strategy of the past, w
+    hich typically involved discounting a customer’s first year or two and then appl
+    ying a steep increase in monthly charges.
+    The company has also stepped up promotion of its wireless phone service. Subscri
+    bers to the 5-year internet plan get a free mobile line for one year. Under a lo
+    ng-running deal with Verizon and increasing use of its own infrastructure, Comca
+    st is able to undercut its competitors with a lower-priced mobile offering, acco
+    rding to Armstrong. The company added a record 378,000 wireless lines in the sec
+    ond quarter.
+    The theory is that internet customers will stick with Comcast, thanks to the pri
+    ce guarantee, and ultimately pay for wireless phone service too. Early signs sug
+    gest that customers are also choosing faster speeds, and thus more costly intern
+    et plans, an encouraging trend, according to Armstrong.
+    “Right now the No. 1 product attaching to broadband is wireless,’’ he said. “Tha
+    t is the bundle of the future.”
+    The company has reorganized management of its connectivity business in the US, p
+    romoting Steve Croney to chief operating officer and hiring Jon Gieselman, a for
+    mer Apple Inc. and DirecTV executive, as chief growth officer. It’s also taking 
+    steps to improve customer service.
+    Broadband troubles aside, Comcast has other businesses that it is investing in, 
+    including theme parks and business telecom services, and has managed to increase
+     revenue every year since 2020. Later in 2025, it will spin off cable-TV network
+    s such as MSNBC and USA, cutting a loose a business where subscriber revenue and
+     advertising are challenged by the shift to streaming. Comcast has said its grow
+    th businesses, including residential broadband, will account for 65% of revenue 
+    after that separation is complete.
+    While the company works on its broadband problem, sales are forecast to be littl
+    e changed this year and rise 3% in 2026. Unless there’s a turnaround, 2025 will 
+    go down as the fourth losing year for Comcast shares in the past five - with the
+     stock down about 11% year to date, compared with an 10% gain for the S&amp;P 50
+    0 Index.
+    “This is not a quick fix,” said Roger Entner, an analyst with Recon Analytics. “
+    This is a multiyear technical and cultural shift. And culture is very hard to ch
+    ange.”
+      
+    Link [https://archive.ph/ymxr9#selection-1945.0-1973.166](https://archive.ph/ymx
+    r9#selection-1945.0-1973.166)
+----------------------------------------------------------------------------------------------------
+
+Post #33
+📌 Title   : Warren Buffett’s Berkshire Hathaway reveals new stake in beleaguered insurer UnitedHealth
+🔥 Score   : 462
+🔗 URL     : https://reddit.com/r/stocks/comments/1mqc5zj/warren_buffetts_berkshire_hathaway_reveals_new/
+🕓 Created : 2025-08-15 01:56:12
+📝 Content:
+    https://www.cnbc.com/2025/08/14/warren-buffetts-berkshire-hathaway-unh.html?__so
+    urce=iosappshare%7Ccom.apple.UIKit.activity.CopyToPasteboard
+    Warren Buffett’s Berkshire Hathaway revealed a new stake in troubled insurer Uni
+    tedHealth after secretly building the position for two quarters in a row, accord
+    ing to a regulatory filing.
+    The Omaha-based conglomerate bought more than 5 million shares in the health car
+    e firm for a stake worth about $1.6 billion at the end of June. The size is rela
+    tively small for Berkshire, whose equity portfolio is worth about $300 billion, 
+    so it could be the work of Buffett’s two investing lieutenants Todd Combs and Te
+    d Weschler.
+    There was much speculation about the mystery position before Thursday with many 
+    guessing it would be a defense name. The confidential treatment allowed Berkshir
+    e to quietly build up a position and limit price movement without stoking volati
+    lity.
+----------------------------------------------------------------------------------------------------
+
+Post #34
+📌 Title   : Perplexity Makes Longshot $34.5 Billion Offer for Chrome
+🔥 Score   : 574
+🔗 URL     : https://reddit.com/r/stocks/comments/1mocvvv/perplexity_makes_longshot_345_billion_offer_for/
+🕓 Created : 2025-08-12 21:38:02
+📝 Content:
+    From The Wall Street Journal.
+    [https://www.wsj.com/tech/perplexity-ai-google-chrome-offer-5ddb7a22](https://ww
+    w.wsj.com/tech/perplexity-ai-google-chrome-offer-5ddb7a22)  
+    [Artificial-intelligence startup](https://www.wsj.com/tech/ai-startup-perplexity
+    s-valuation-surges-to-14-billion-in-fresh-funding-round-26124482?mod=article_inl
+    ine) 
+    &gt;Perplexity on Tuesday offered to purchase Google’s Chrome browser for $34.5 
+    billion as it works to challenge the tech giant’s [web-search dominance](https:/
+    /www.wsj.com/tech/google-search-ai-antitrust-trial-57ec6fdb?mod=article_inline).
+    &gt;Perplexity’s offer is significantly more than its own valuation, which is es
+    timated at $18 billion. The company told The Wall Street Journal that several in
+    vestors including large venture-capital funds had agreed to back the transaction
+     in full.
+    &gt;Estimates of Chrome’s enterprise value vary widely but recent ones have rang
+    ed from $20 billion to $50 billion.
+    I would think that the valuation would be worth even more, this is probably just
+     an opening salvo.
+    Google pays Apple approximately $20 billion per year to remain the default searc
+    h engine on Apple devices, including the Safari browser on iPhones, iPads, and M
+    acs. The anti-trust ruling might force Google to spin off Chrome, but Google wil
+    l likely appeal any decision, so this is going to be stuck in court for a long t
+    ime. I'm not sure what this offer achieves but Perplexity has a lot of guts goin
+    g for it.
+----------------------------------------------------------------------------------------------------
+
+Post #36
+📌 Title   : Apple has its best week since July 2020 after White House visit
+🔥 Score   : 797
+🔗 URL     : https://reddit.com/r/stocks/comments/1mm680u/apple_has_its_best_week_since_july_2020_after/
+🕓 Created : 2025-08-10 07:15:30
+📝 Content:
+    [https://www.cnbc.com/2025/08/08/apple-has-best-week-since-july-2020-after-tim-c
+    ooks-white-house-visit.html](https://www.cnbc.com/2025/08/08/apple-has-best-week
+    -since-july-2020-after-tim-cooks-white-house-visit.html)
+    * Apple shares rose 13% this week, its largest weekly gain in more than five yea
+    rs, after CEO Tim Cook appeared with President Donald Trump in the White House o
+    n Wednesday.
+    * At the White House on Wednesday, Cook appeared with Trump to announce Apple’s 
+    plans to spend $100 billion on American companies and American parts over the ne
+    xt four years.
+    * The company’s plans to buy more American chips pleased Trump, who said Apple w
+    ould be exempt from future tariffs that could double the price of imported chips
+    .
+----------------------------------------------------------------------------------------------------
+
+Post #37
+📌 Title   : Trump's Chips Tariff Exemptions are being Overestimated by the Markets
+🔥 Score   : 223
+🔗 URL     : https://reddit.com/r/stocks/comments/1mlyfon/trumps_chips_tariff_exemptions_are_being/
+🕓 Created : 2025-08-10 01:17:33
+📝 Content:
+    I think the market is overestimating the tariff exemptions for Trump's chips tar
+    iffs.
+    Trump has been very vague about the exclusions to the chips tariffs. For example
+    , Apple has pledges some "investments" into America, but does that mean all of A
+    pple's products are being excluded? I don't think so, I think, specifically the 
+    chips themselves will be excluded, but the rest of the electronic components wil
+    l not. I think Trump has a new found confidence in his tariff agenda, he sees al
+    l the money coming in, countries bending over and taking his tariff rates and th
+    e stock market near the top.
+----------------------------------------------------------------------------------------------------
+
+Post #38
+📌 Title   : Why isnt TSMC worth more?
+🔥 Score   : 225
+🔗 URL     : https://reddit.com/r/stocks/comments/1ml5cf2/why_isnt_tsmc_worth_more/
+🕓 Created : 2025-08-09 01:27:26
+📝 Content:
+    Tons of companies like Apple, Facebook, Amazon bent the knee and continue to do 
+    so...yet TSMC was the first deal that trump made. Right off the bat 100b investm
+    ent in the USA. Tariffs go live? TSMC first company exempted.
+    It seems like trump values TSMC a lot more than every other company.
+----------------------------------------------------------------------------------------------------
+
+Post #40
+📌 Title   : Trump Not Moving Markets
+🔥 Score   : 834
+🔗 URL     : https://reddit.com/r/stocks/comments/1mjotn6/trump_not_moving_markets/
+🕓 Created : 2025-08-07 08:28:15
+📝 Content:
+    Let’s talk about the lies Trump spews daily and how they don’t effect the market
+    s anymore. 
+    I watched Trump embarrass Apple CEO Tim Cook today. After the cringe gift where 
+    Cook’s hand is visibly shaking Trump stands up at the mic and shamelessly says t
+    hat there is no inflation and all of these companies/countries are investing hun
+    dreds of billions into the U.S.. 
+    Shortly after that he talks about how he’s putting 100% tariffs on semiconductor
+    s and chips not made in America. Markets laughed it off and are green as of now 
+    premarket. Also, another 15% on India for being the second biggest buyer of oil 
+    from Russia. Number one… drum roll please! China! No new tariff on China. I thin
+    k the admin knows we have no leverage in those talks. 
+    What other lies has Trump been putting out into the world that should have moved
+     the markets but the markets just don’t care anymore? Just vertical days, sunshi
+    ne, and rainbows no matter what is said. 
+----------------------------------------------------------------------------------------------------
+
+Post #43
+📌 Title   : Trump, Apple to Announce Fresh $100 Billion US Investment
+🔥 Score   : 1215
+🔗 URL     : https://reddit.com/r/stocks/comments/1mj5cci/trump_apple_to_announce_fresh_100_billion_us/
+🕓 Created : 2025-08-06 19:25:39
+📝 Content:
+    President Donald Trump will announce that Apple Inc. will commit to spend anothe
+    r $100 billion on domestic manufacturing, the latest pledge by the tech giant to
+     increase US production of its products as it seeks to avoid punishing tariffs o
+    n its flagship iPhones.
+    The announcement at the White House on Wednesday includes a new manufacturing pr
+    ogram designed to bring more of Apple’s supply chain to the US, with an eye towa
+    rd manufacturing additional critical components domestically, according to a Whi
+    te House official who detailed the announcement on the condition of anonymity. A
+    pple Chief Executive Officer Tim Cookis expected to ...
+    https://news.bloomberglaw.com/international-trade/trump-apple-to-announce-fresh-
+    100-billion-in-us-manufacturing
+----------------------------------------------------------------------------------------------------
+
+Post #45
+📌 Title   : What is apples long term plan?
+🔥 Score   : 258
+🔗 URL     : https://reddit.com/r/stocks/comments/1miq5nc/what_is_apples_long_term_plan/
+🕓 Created : 2025-08-06 05:54:07
+📝 Content:
+    Don’t get me wrong, I don’t think Apple is going anywhere. They aren’t going to 
+    become the next Cisco or something.
+    However, I am starting to get worried.
+    Apple is going no where, however, the hype for their products is just dwindling.
+    Gen Z kids are definitely addicted to Apple, but let’s be real, they are perfect
+    ly fine having a 3-4 year old IPhone and AirPods. 
+    While I like the M series chips, that was 5 years ago at this point, and the des
+    ktop consumer market isn’t exactly a growing market. 
+    The Vision Pro was a complete bust. 
+    Apple services is not doing well. Apple TV is burning money. Most of the gen z p
+    eople I know use Spotify, not Apple Music. 
+    What’s next? A $2,000 foldable phone? There’s a limit to what people will spend 
+    on Apple products, and we saw that with the Vision Pro. 
+    I don’t think a $2,000 foldable phone will do very well. 
+    Apple will remain a trillion dollar company, however, I just don’t see much grow
+    th in the future. 
+----------------------------------------------------------------------------------------------------
+
+Post #47
+📌 Title   : Is AAPL still a buy?
+🔥 Score   : 226
+🔗 URL     : https://reddit.com/r/stocks/comments/1mi465p/is_aapl_still_a_buy/
+🕓 Created : 2025-08-05 14:35:31
+📝 Content:
+    Compared to other companies such as Meta, Microsoft, or Google, it doesn’t seem 
+    like Apple’s stock growth has been that great lately. 
+    Now, it is widely known that Apple can afford to be slower to the AI game since 
+    people will use their devices regardless. But, it still seems like they are doin
+    g it very very slowly and not giving it as much urgency as other Big Tech compan
+    ies. 
+    Nvidia and Microsoft recently overtook Apple as the world’s largest companies by
+     market cap. 
+    Where does this go next, and will Apple slowly become smaller than even more com
+    panies, and will they collapse in the next 50 years or so?
+----------------------------------------------------------------------------------------------------
+
+Post #49
+📌 Title   : India overtakes China as the world's largest exporters of smartphones
+🔥 Score   : 404
+🔗 URL     : https://reddit.com/r/stocks/comments/1mg3pw2/india_overtakes_china_as_the_worlds_largest/
+🕓 Created : 2025-08-03 04:24:48
+📝 Content:
+    In Q2 2025, India became the largest source of smartphones shipped to the United
+     States. 
+    About 44% of U.S. smartphone imports were assembled in India, while China’s shar
+    e fell to roughly 25% and Vietnam’s was around 30%. 
+    The shift is driven mainly by Apple moving more iPhone assembly to India, with s
+    ome contribution from Samsung and Motorola. 
+    Vendors also front-loaded shipments to the U.S. to hedge against possible tariff
+    s later in 2025. 
+    Despite the supply-chain shift, total U.S. smartphone shipments grew only about 
+    1% year over year; Apple’s shipments declined around 11% while Samsung’s rose ab
+    out 38%. 
+----------------------------------------------------------------------------------------------------
+
+Post #50
+📌 Title   : What’s your biggest ‘I should’ve held’ stock regret?
+🔥 Score   : 525
+🔗 URL     : https://reddit.com/r/stocks/comments/1mfdmso/whats_your_biggest_i_shouldve_held_stock_regret/
+🕓 Created : 2025-08-02 06:37:17
+📝 Content:
+    You know. Every investor has some kind of regret related to selling too soon suc
+    h as Apple or Nvidia or anything else. Stock that, if you had just held on, migh
+    t have changed your life.
+    What's your "I sold it too early" stock and what made you do it? Tell me your st
+    ory
+----------------------------------------------------------------------------------------------------
+
