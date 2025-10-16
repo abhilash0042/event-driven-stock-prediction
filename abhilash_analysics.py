@@ -1,71 +1,52 @@
-import requests
+import yfinance as yf
 import pandas as pd
-from datetime import datetime
-import sys
-print(sys.executable)
+import os
 
-# Parameters
-query = "Apple"
-limit = 50
-subreddit = "stocks"
-MIN_SCORE = 200
+def download_and_save_stock_data(ticker_list, file_path, period="60d", interval="5m"):
+    """
+    Downloads historical stock data for a given list of tickers and saves it to a CSV file.
+    Note: For 5m interval, Yahoo Finance limits data to the last 60 days.
+    """
+    print(f"Attempting to download data for: {', '.join(ticker_list)}...")
+    print(f"Period: {period}, Interval: {interval}")
+    try:
+        data = yf.download(
+            ticker_list,
+            period=period,
+            interval=interval,
+            group_by='ticker',
+            auto_adjust=True,
+            threads=True
+        )
 
-# Reddit's public JSON API endpoint (no authentication required)
-url = f"https://www.reddit.com/r/{subreddit}/search.json?q={query}&restrict_sr=1&sort=new&limit={limit}"
-headers = {"User-Agent": "Mozilla/5.0 (compatible; AppleNewsBot/1.0)"}
+        if data.empty:
+            print("No data downloaded. Check your parameters; intraday data is not available for all tickers.")
+            return None
+        else:
+            print("Successfully downloaded data!")
+            
+            data.to_csv(file_path)
+            
+            print(f"Data successfully saved to: {os.path.abspath(file_path)}")
+            
+            return data
 
-# Fetch data
-response = requests.get(url, headers=headers)
-if response.status_code != 200:
-    print(f"⚠ Failed to fetch data: HTTP {response.status_code}")
-    sys.exit()
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
 
-data = response.json()["data"]["children"]
+# This block runs only when you execute this script directly
+if __name__ == "__main__":
+    # Define the companies you're interested in
+    tickers_to_fetch = ["AAPL", "NVDA", "META", "MSFT", "NFLX", "GOOGL"]
+    
+    # Updated filename to reflect the new interval
+    output_filename = "stock_data_60d_5m.csv"
 
-# Extract relevant post info
-posts = []
-for item in data:
-    post = item["data"]
-    posts.append({
-        "title": post["title"],
-        "score": post["score"],
-        "url": f"https://reddit.com{post['permalink']}",
-        "created": datetime.fromtimestamp(post["created_utc"]),
-        "content": post.get("selftext", "")
-    })
+    # Call the function to download and save the data with the new parameters
+    stock_data = download_and_save_stock_data(tickers_to_fetch, output_filename)
 
-# Convert to DataFrame
-df = pd.DataFrame(posts)
-
-# Keyword filter
-keywords = ["Apple", "AAPL", "iPhone", "MacBook", "Tim Cook"]
-pattern = "|".join(keywords)
-df = df[
-    df["title"].str.contains(pattern, case=False, na=False) |
-    df["content"].str.contains(pattern, case=False, na=False)
-]
-
-# Filter trending (high-score) posts
-df_filtered = df[df["score"] > MIN_SCORE]
-
-# Save to file
-file_path = f"apple_trending_{datetime.now():%Y%m%d_%H%M}.txt"
-with open(file_path, "w", encoding="utf-8") as f:
-    if df_filtered.empty:
-        f.write("No trending Apple-related posts found.\n")
-        print("⚠ No matching posts found.")
-    else:
-        for i, row in df_filtered.iterrows():
-            f.write(f"Post #{i + 1}\n")
-            f.write(f"📌 Title   : {row['title']}\n")
-            f.write(f"🔥 Score   : {row['score']}\n")
-            f.write(f"🔗 URL     : {row['url']}\n")
-            f.write(f"🕓 Created : {row['created']}\n")
-            f.write("📝 Content:\n")
-            for line in row['content'].splitlines():
-                for segment in [line[i:i+80] for i in range(0, len(line), 80)]:
-                    f.write(f"    {segment}\n")
-            f.write("-" * 100 + "\n\n")
-        print(f"✅ File saved: {file_path}")
-
-
+    # (Optional) Check if data was returned and print a sample
+    if stock_data is not None:
+        print("\n--- Quick sample of downloaded data (Apple) ---")
+        print(stock_data['AAPL'].tail())
