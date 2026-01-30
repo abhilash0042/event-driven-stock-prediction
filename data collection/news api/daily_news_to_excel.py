@@ -1,3 +1,10 @@
+"""
+Daily Important News Collection
+
+Collects 3–4 market-moving news items per day for each asset
+and exports clean, readable Excel files for analysis.
+"""
+
 import feedparser
 import pandas as pd
 from urllib.parse import quote_plus
