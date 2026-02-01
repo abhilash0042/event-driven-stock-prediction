@@ -1,3 +1,5 @@
+Apple trending news sample data
+
 Post #5
 📌 Title   : The price of gold reached $4,000 an ounce for the first time ever
 🔥 Score   : 1621
