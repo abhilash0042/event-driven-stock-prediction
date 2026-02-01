@@ -1,19 +1,12 @@
-# event-driven-stock-prediction
-A machine learning project that predicts stock price movements by analyzing fast-spreading news and social media sentiment from sources like Moneycontrol and Reddit.
+This project aims to analyze how news and social media events affect stock prices.
 
+We collect latest stock-related news articles and Reddit discussions,twitter, then apply sentiment analysis to understand whether the overall public opinion about a stock is positive, negative, or neutral.
+This sentiment is then compared with stock price movements and volatility to study how events influence the market.
 
-## Daily News Collection Module
+The goal is to build an event-driven stock analysis system that helps identify:
 
-This module collects daily market-moving financial news using Google News RSS.
+How strongly news impacts stock prices
 
-### Key Features
-- Filters only important financial events (earnings, price movement, macro)
-- Limits to 3–4 impactful news per day
-- Converts news into readable 2–3 line summaries
-- Exports results as Excel files for analysis
+Whether social media sentiment can signal market movement
 
-### Usage
-Run the script inside `data collection/news api`:
-
-```bash
-python daily_news_to_excel.py
+Patterns between sentiment changes and stock volatility
