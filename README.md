@@ -1,12 +1,15 @@
-This project aims to analyze how news and social media events affect stock prices.
+Financial markets react rapidly to breaking news and social media discussions, often causing sudden price movements and increased volatility. However, manually tracking and interpreting this information in real time is difficult and inefficient.
 
-We collect latest stock-related news articles and Reddit discussions,twitter, then apply sentiment analysis to understand whether the overall public opinion about a stock is positive, negative, or neutral.
-This sentiment is then compared with stock price movements and volatility to study how events influence the market.
+This project focuses on building an event-driven stock sentiment analysis system that automatically captures and analyzes stock-related news and social media content (Reddit, Twitter) to measure public sentiment and its impact on stock price behavior.
 
-The goal is to build an event-driven stock analysis system that helps identify:
+The system continuously collects textual data from multiple sources, processes and cleans it using Natural Language Processing (NLP) techniques, and assigns sentiment scores that reflect market mood. These sentiment trends are then aligned with historical and real-time stock price data to examine how external events influence price movement and volatility.
 
-How strongly news impacts stock prices
+By correlating sentiment shifts with market reactions, the project aims to uncover patterns that can:
 
-Whether social media sentiment can signal market movement
+Explain sudden stock price changes caused by news events
 
-Patterns between sentiment changes and stock volatility
+Identify sentiment-driven market momentum
+
+Assist in understanding short-term volatility around major announcements
+
+Ultimately, this project demonstrates how AI-driven sentiment analysis can be used as a supporting tool for data-driven investment insights and market behavior analysis.
